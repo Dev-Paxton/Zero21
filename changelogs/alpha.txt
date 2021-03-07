@@ -1,0 +1,6 @@
+V0.1-Alpha
++ Custom Prefix
++ Botinfo command
++ Der Bot reagiert auf eine Mention mit dem botinfo command
++ stats & Leaderboard funktioniert Server übergreifend
++ Beim verlassen/joinen eines Servers wird die Server ID in den User Daten entfernt/hinzugefügt
