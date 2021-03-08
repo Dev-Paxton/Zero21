@@ -4,3 +4,10 @@ V0.1-Alpha
 + Der Bot reagiert auf eine Mention mit dem botinfo command
 + stats & Leaderboard funktioniert Server übergreifend
 + Beim verlassen/joinen eines Servers wird die Server ID in den User Daten entfernt/hinzugefügt
+
+V0.2-Alpha
++ Im botinfo command werden bei user keine Bots und doppelte User mitgezählt
++ Im Serverlog werden keine Bots mitgezählt
++ Der Standart Prefix ist nun "z."
++ Ä, Ö und Ü werden nun im help command korrekt konvertiert
++ Wenn der Bot zu einem Server eingeladen wird, wird dem Owner des Servers im Status gedankt
