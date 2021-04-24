@@ -11,3 +11,8 @@ V0.2-Alpha
 + Der Standart Prefix ist nun "z."
 + Ä, Ö und Ü werden nun im help command korrekt konvertiert
 + Wenn der Bot zu einem Server eingeladen wird, wird dem Owner des Servers im Status gedankt
+
+V0.3-Alpha
++ Links werden als Hyperlinks dargestellt
++ vote command
++ role command
