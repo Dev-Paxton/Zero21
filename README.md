@@ -5,7 +5,7 @@
 <p>
 <a href="discord.gg/Ra4WSRYWk6"><img src="https://img.shields.io/discord/770022734234386432?label=%20discord&logo=discord&style=plastic7"/><a>
 
-<img src=https://img.shields.io/badge/Version-V0.3--Alpha-red>
+<img src=https://img.shields.io/badge/Version-V0.4--Alpha-red>
 <p>
 </div>
 
