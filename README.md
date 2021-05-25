@@ -24,7 +24,7 @@ Zero21 is a minigame Discord Bot. Read [here](https://github.com/BenediktWutzke/
 
 ## Invite
 Thank you for inviting! ❤️<br>
-Click [here](https://zorks.de/zero21-invite) to invite the bot"
+Click [here](https://zorks.de/zero21-invite) to invite the bot
 
 <br>
 
