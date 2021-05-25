@@ -5,7 +5,7 @@
 <p>
 <a href="discord.gg/Ra4WSRYWk6"><img src="https://img.shields.io/discord/770022734234386432?label=%20discord&logo=discord&style=plastic7"/><a>
 
-<img src=https://img.shields.io/badge/Version-V0.4--Alpha-red>
+<img src=https://img.shields.io/badge/Version-V0.5--Alpha-red>
 <p>
 </div>
 
@@ -18,25 +18,24 @@
 - [Help](#help)
 
 ## About
-Zero21 ist ein Minigame Discord Bot. Lese [hier] nach wie das Spiel funktioniert!
+Zero21 is a minigame Discord Bot. Read [here](https://github.com/BenediktWutzke/zero21/blob/main/spielregeln.md) how the game works!
 
 <br>
 
 ## Invite
-Vielen dank fürs [Einladen!] ❤️
+Thank you for inviting! ❤️<br>
+Click [here](https://zorks.de/zero21-invite) to invite the bot"
 
 <br>
 
 ## Errors, Bugs & Feedback
-Fehler und Bugs kannst du gerne hier auf GitHub oder auf meinem [Discord Server] melden. <br>
-Wenn du ein neues issue erstellst, stelle sicher, dass es nicht bereits gemeldet wurde. <br>
-Feedback ist ebenfalls gerne gesehen! <br>
+To report bugs or errors you can open an issue on GitHub or join my [Discord Server]. <br>
+If you create a new issue just make sure that it hasn't already been reported. <br>
+Feedback is also welcome on my [Discord Server]
 
 <br>
 
 ## Help
-Falls du Probleme hast, zögere nicht auf meinen [Discord Server] zu kommen!
+If you have problems, please don't hesitate to join my [Discord Server]
 
-[hier]: https://github.com/BenediktWutzke/zero21/blob/main/spielregeln.md
-[Einladen!]: https://zorks.de/zero21-invite
 [Discord Server]: https://zorks.de/server

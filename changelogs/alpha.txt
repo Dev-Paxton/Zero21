@@ -21,3 +21,6 @@ V0.4-Alpha
 + Während eines Spiels werden die Spielregeln verlinkt
 + Wenn nach 1 min. keine Reaktion kommt, wird das Spiel als Lose gezählt
 + Useranzahl wird nun anders und dadurch schneller berechnet
+
+V0.5-Alpha
++ Now supports English and Spanish
