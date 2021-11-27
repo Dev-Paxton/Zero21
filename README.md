@@ -18,7 +18,7 @@
 - [Help](#help)
 
 ## About
-Zero21 is a minigame Discord Bot. Read [here](https://github.com/BenediktWutzke/zero21/blob/main/spielregeln.md) how the game works!
+Zero21 is a minigame Discord Bot. Read [here](https://github.com/GoroPL/Zero21/blob/main/explanation.md) how the game works!
 
 <br>
 
